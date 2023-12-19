@@ -3,7 +3,7 @@
 <center><h1> King Faisal Universisty </h1></center>
 
 ## Project Description
-This project is about building a model that can predict the Air quality in Madrid based on 170 rows of an hourly recorded data from 2001 to 2022 
+This project is about building a model that can predict the Air quality in Madrid based on 170k rows of an hourly recorded data from 2001 to 2022 
 
 ## Dataset
 The dataset is downloaded from Kaggle and can be found [here](https://www.kaggle.com/datasets/ignacioqg/20012022-hourly-dataset-of-pollution-in-madrid)

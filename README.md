@@ -18,7 +18,7 @@ The dataset is downloaded from Kaggle and can be found [here](https://www.kaggle
 │   ├── 1 - EDA - Air pollution.ipynb
 │   ├── 2 - Data preprocessing - Air pollution.ipynb
 │   |── 3 - Modelling implementation & assessment Air pollution.ipynb
-├── requirements.txt
+|
 ├── README.md
 ```
 
